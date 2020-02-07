@@ -1,5 +1,5 @@
 {
-  "name": "kevinseghetti-react-cursor-position",
+  "name": "@kevinseghetti/react-cursor-position",
   "version": "3.0.3",
   "description": "branched from https://github.com/dan-lee/react-cursor-position/tree/patch-1. A React component that decorates its children with touch and mouse cursor coordinates, plotted relative to itself.",
   "repository": {
